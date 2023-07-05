@@ -4,7 +4,6 @@ Custom Pong game made in JAVA.
 Custom features of it:  
 - When either player reaches a score of 5, a second ball is added to field for 1 round.
 - `Power Up`, once a ball is bounced around for 10 times , a power up appears that adds a second ball to the field.
-The amount of balls added can be easily modified, by changing `BALL_AMOUNT` variable.
 
 # How to launch?
   Open .jar file.
