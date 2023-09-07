@@ -11,7 +11,4 @@ Custom features of it:
 # Currently known bugs:
 - Sometimes multiple balls spawn at the same location and clip into one another , creating illusion of only 1 ball. (Or maybe this is a feature?)
 
-# Future updates
-- Add menu
-- Add settings
-- Add music
+
